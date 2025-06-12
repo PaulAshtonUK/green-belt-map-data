@@ -15,21 +15,21 @@
   },
   {
     "name": "110",
-    "description": "Barn Conversion Permssion",
+    "description": "Barn Conversion Permission",
     "latitude": 53.37412653206141,
     "longitude": -2.7843943984191917,
     "link": "https://www.paulashtonarchitects.com/bisected-house"
   },
-   {
+  {
     "name": "112",
-    "description": "Replacemnt Dwelling Green Belt Permission",
+    "description": "Replacement Dwelling Green Belt Permission",
     "latitude": 53.19736396578568,
     "longitude": -2.825537484983472,
     "link": "https://www.paulashtonarchitects.com/bisected-house"
-  }
-   {
+  },
+  {
     "name": "115",
-    "description": "Domestic Extension Permision",
+    "description": "Domestic Extension Permission",
     "latitude": 53.27537552858928,
     "longitude": -2.942209270830251,
     "link": "https://www.paulashtonarchitects.com"
@@ -43,30 +43,30 @@
   },
   {
     "name": "122",
-    "description": "Green Belt Extension Permisison",
+    "description": "Green Belt Extension Permission",
     "latitude": 53.218170011504036,
     "longitude": -2.0967293288970517,
     "link": "https://www.paulashtonarchitects.com/bisected-house"
   },
   {
     "name": "124",
-    "description": "Cheyney Road",
+    "description": "Converting Terraced House",
     "latitude": 53.1980212881484,
     "longitude": -2.89990346855671,
     "link": "https://www.paulashtonarchitects.com/bisected-house"
   },
   {
     "name": "126",
-    "description": "Mannor Cottage",
+    "description": "Green Belt Extension Permission",
     "latitude": 53.59217908101283,
     "longitude": -2.75842304620791,
     "link": "https://www.paulashtonarchitects.com"
   },
-            {
+  {
     "name": "127",
-    "description": "Manchester Penthouse",
+    "description": "Penthouse to Grade II Listed Building Pre Application",
     "latitude": 53.47476884829638,
     "longitude": -2.2379677213170184,
     "link": "https://www.paulashtonarchitects.com"
-  },
+  }
 ]
